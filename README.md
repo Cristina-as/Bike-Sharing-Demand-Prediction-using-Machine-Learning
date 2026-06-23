@@ -1,12 +1,6 @@
 # Bike-Sharing-Demand-Prediction-using-Machine-Learning
 O objetivo deste projeto é desenvolver modelos preditivos capazes de estimar a quantidade de bicicletas alugadas com base em fatores ambientais e comportamentais, auxiliando empresas de mobilidade urbana na tomada de decisão operacional.
 
-# Bike Sharing Demand Prediction using Machine Learning
-
-Projeto de Ciência de Dados e Machine Learning desenvolvido para prever a demanda de bicicletas compartilhadas utilizando dados climáticos e temporais.
-
----
-
 # Objetivo do Projeto
 
 O objetivo deste projeto é desenvolver modelos preditivos capazes de estimar a quantidade de bicicletas alugadas com base em fatores ambientais e comportamentais, auxiliando empresas de mobilidade urbana na tomada de decisão operacional.
