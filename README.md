@@ -69,12 +69,6 @@ Principais insights identificados:
 
 ## Tecnologias Utilizadas
 
-![Python](https://img.shields.io/badge/Python-3.10-blue)
-![Pandas](https://img.shields.io/badge/Pandas-2.0-lightblue)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.3-orange)
-![Seaborn](https://img.shields.io/badge/Seaborn-0.12-green)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-notebook-yellow)
-
 - **Manipulação de dados:** Pandas, NumPy
 - **Visualização:** Matplotlib, Seaborn
 - **Machine Learning:** Scikit-learn
