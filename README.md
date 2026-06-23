@@ -5,8 +5,6 @@ O objetivo deste projeto é desenvolver modelos preditivos capazes de estimar a 
 
 O objetivo deste projeto é desenvolver modelos preditivos capazes de estimar a quantidade de bicicletas alugadas com base em fatores ambientais e comportamentais, auxiliando empresas de mobilidade urbana na tomada de decisão operacional.
 
----
-
 # Problema de Negócio
 
 Sistemas de compartilhamento de bicicletas precisam prever a demanda de utilização para:
@@ -18,8 +16,6 @@ Sistemas de compartilhamento de bicicletas precisam prever a demanda de utiliza�
 - identificar padrões de comportamento
 
 A previsão da demanda permite maior eficiência operacional e melhor planejamento estratégico.
-
----
 
 # Dataset
 
@@ -40,8 +36,6 @@ Dataset original disponibilizado por:
 - Capital Bikeshare
 - University of Porto
 
----
-
 # Tecnologias Utilizadas
 
 ## Linguagens e Bibliotecas
@@ -60,8 +54,6 @@ Dataset original disponibilizado por:
 - Google Colab
 - GitHub
 - Power BI
-
----
 
 # Estrutura do Projeto
 
