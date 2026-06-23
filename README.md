@@ -98,15 +98,6 @@ bike-sharing-demand/
 
 ---
 
-## Próximos Passos
-
-- [ ] Testar modelos XGBoost e LightGBM
-- [ ] Otimização de hiperparâmetros
-- [ ] Aplicar split temporal correto para séries temporais
-- [ ] Deploy do modelo com Streamlit ou FastAPI
-
----
-
 ## 👩‍💻 Autora
 
 **Cristina Almeida da Silva**
