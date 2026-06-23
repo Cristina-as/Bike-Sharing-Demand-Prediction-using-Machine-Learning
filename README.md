@@ -6,7 +6,7 @@ Projeto de Ciência de Dados e Machine Learning para previsão de demanda de bic
 
 ## Sobre o Projeto
 
-O sistema de bike sharing registra automaticamente cada aluguel — horário, duração e localização. Este projeto utiliza esses dados para **prever a quantidade de bicicletas alugadas por hora**, permitindo que o sistema antecipe a demanda e faça o reposicionamento preventivo de bicicletas nas estações.
+O sistema de bike sharing registra automaticamente cada aluguel (horário, duração e localização). Este projeto utiliza esses dados para **prever a quantidade de bicicletas alugadas por hora**, permitindo que o sistema antecipe a demanda e faça o reposicionamento preventivo de bicicletas nas estações.
 
 **Fonte dos dados:** [Capital Bikeshare System](http://capitalbikeshare.com/system-data) — Washington D.C., EUA (2011–2012)
 
