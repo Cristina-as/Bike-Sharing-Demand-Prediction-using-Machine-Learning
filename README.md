@@ -26,12 +26,12 @@ Desenvolver um modelo preditivo capaz de estimar a demanda horária de bicicleta
 | `hour.csv` | Aluguéis agregados por hora | 17.379 horas |
 
 **Principais variáveis:**
-- `hr` — Hora do dia (0–23)
-- `temp` — Temperatura normalizada
-- `hum` — Umidade normalizada
-- `weathersit` — Condição climática
-- `season` — Estação do ano
-- `cnt` —  **Target:** total de bicicletas alugadas
+- hr — Hora do dia (0–23)
+- temp — Temperatura normalizada
+- hum — Umidade normalizada
+- weathersit — Condição climática
+- season — Estação do ano
+- cnt —  **Target:** total de bicicletas alugadas
 
 ---
 
